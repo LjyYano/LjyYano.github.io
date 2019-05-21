@@ -4,7 +4,7 @@ title:      Hello Blog
 subtitle:   第一篇博客
 date:       2019-05-21
 author:     Yano
-header-img: img/post-bg-cook.jpg
+header-img: img/blog-banner-dark.jpg
 catalog: true
 tags:
     - Hello
