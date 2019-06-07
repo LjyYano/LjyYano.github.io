@@ -30,6 +30,10 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
 
+# Google Analytics
+ga_track_id: 'UA-140497402-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
+
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -43,7 +47,7 @@ kramdown:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
