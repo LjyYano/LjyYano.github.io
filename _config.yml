@@ -34,6 +34,15 @@ gems: [jekyll-paginate]
 ga_track_id: 'UA-140497402-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
 
+# gitalk
+gitalk:
+  enable: true
+  clientID: '04a99a344b4cb31dbaeb'
+  clientSecret: '5ebaa66f6478312564a838b0ef40309f7813fa45'
+  repo: 'ljyyano.github.io'
+  owner: 'LjyYano'
+  admin: ['LjyYano']
+  distractionFreeMode: false
 
 # Markdown settings
 # replace redcarpet to kramdown,
